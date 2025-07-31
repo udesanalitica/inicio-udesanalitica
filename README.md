@@ -1,7 +1,6 @@
-# UDES Analítica
-
 *Versión en [Español](#español) | [English version](#english)*
 
+# UDES Analítica
 ---
 
 ## 📘 Español
@@ -100,10 +99,8 @@ Economist, Specialist and Master’s student in Project Evaluation and Managemen
 - ✉️ analitica.academica@udes.edu.co  
 - 🌐 Microsite: [https://udes.edu.co/ensenanza/dependencias/analitica-academica](https://udes.edu.co/ensenanza/dependencias/analitica-academica)  
 - 🌐 Projects and publications: [https://udesanalitica.github.io](https://udesanalitica.github.io)
-
-
 ...
-
+---
 
 
 
