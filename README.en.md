@@ -1,4 +1,7 @@
 Available: [Español](README.md) | [English](README.en.md)
+
+<img width="750" height="160" alt="Logo-UDES-EQUAA" src="https://github.com/user-attachments/assets/45d76b2b-01a8-40f3-bb9c-7935440ea306" />
+
 ---
 # UDES Analytics
 
