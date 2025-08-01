@@ -1,5 +1,6 @@
 Disponible en: [Español](README.md) | [English](README.en.md)
 
+<img width="750" height="160" alt="Logo-UDES-EQUAA" src="https://github.com/user-attachments/assets/f93e967f-4d6b-48e3-91b3-4b6237b85242" />
 
 ---
 # UDES Analítica
